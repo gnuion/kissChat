@@ -32,6 +32,7 @@ Users should be able to:
 ## Author
 
 - Champion - [gnuion](https://github.com/gnuion)
+- Christina - [christina-ml](https://github.com/christina-ml)
 
 ## Acknowledgments
 

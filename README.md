@@ -22,17 +22,21 @@ Users should be able to:
 
 ![example-app](2021-03-29.gif)
 
-## My process
+## Our process
 
 ### Built with
 
 - Creativity
+- Champions
+- [Flutter] (https://flutter.dev/)
+- [Dart] (https://dart.dev/)
 - [Google](https://www.google.com/) - Google searching
 
-## Author
+## Authors
 
 - Champion - [gnuion](https://github.com/gnuion)
 - Christina - [christina-ml](https://github.com/christina-ml)
+- [Add Your Name Here] (https://github.com/gnuion/championsChat/graphs/contributors)
 
 ## Acknowledgments
 
